@@ -53,10 +53,10 @@
 <br>
 <div align=center>
   <a href="#" title="HungDevelopers2kar6">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=hungthichcode&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=hungthichcode&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   </a>
   <a href="#" title="HungDevelopers2kar6">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=hungthichcode&theme=tokyonight&hide_border=false" />
   </a>
 </div>
 
