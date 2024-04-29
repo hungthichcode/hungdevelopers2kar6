@@ -72,7 +72,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hungdevelopers2kar6-youtube" />
   </a>
   <a href="https://github.com/hungthichcode/hungdevelopers2kar6" target="blank">
-    <img src="https://icons8.com/icon/118553/github" alt="hungdevelopers2kar6-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="hungdevelopers2kar6-linkedin" />
   </a>
   <a href="https://www.instagram.com/hungdevelopers2kar6/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hungdevelopers2kar6-instagram" />
