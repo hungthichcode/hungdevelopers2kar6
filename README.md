@@ -53,7 +53,7 @@
 <br>
 <div align=center>
   <a href="#" title="HungDevelopers2kar6">
-    <img width="315" align="center" src="![hungthichcode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hungthichcode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungthichcode&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
   </a>
   <a href="#" title="HungDevelopers2kar6">
     <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=hungthichcode&theme=tokyonight&hide_border=false" />
