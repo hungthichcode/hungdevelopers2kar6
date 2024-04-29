@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- HungDevelopers2kar6 -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/hungdevelopers2kar6.svg" width="1200" alt="hungdevelopers2kar6-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
